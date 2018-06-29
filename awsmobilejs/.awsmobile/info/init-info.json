@@ -1,0 +1,53 @@
+{
+	"projectPath": "C:\\Users\\S3vi2\\code\\about2Round",
+	"mobileProjectID": "bfba07bd-76e4-419d-a073-82ead4332280",
+	"projectInfo": {
+		"ProjectName": "about2Round",
+		"ProjectPath": "C:\\Users\\S3vi2\\code\\about2Round",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react-native"
+	},
+	"packageJson": {
+		"name": "about2Round",
+		"version": "0.1.0",
+		"private": true,
+		"devDependencies": {
+			"react-native-scripts": "1.14.0",
+			"jest-expo": "~27.0.0",
+			"react-test-renderer": "16.3.1"
+		},
+		"main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+		"scripts": {
+			"start": "react-native-scripts start",
+			"eject": "react-native-scripts eject",
+			"android": "react-native-scripts android",
+			"ios": "react-native-scripts ios",
+			"test": "jest"
+		},
+		"jest": {
+			"preset": "jest-expo"
+		},
+		"dependencies": {
+			"aws-amplify": "^0.4.7",
+			"aws-amplify-react-native": "^0.2.18",
+			"expo": "^27.0.1",
+			"react": "16.3.1",
+			"react-native": "~0.55.2"
+		}
+	},
+	"framework": "react-native",
+	"initialStage": "clean-slate",
+	"strategy": "link"
+}
